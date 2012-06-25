@@ -1,0 +1,1 @@
+{"ID":591,"Author":{"Name":"AVGP","ID":0,"FullName":"","Gravatar":"328abbaba1f38f1771a65611222f97bc"},"Title":"enforce_permissions hook example","Description":"\u003cdiv class=\"content\"\u003e\u003cp\u003eA tiny hook written to force a certain file mask within hg repos.\u003c/p\u003e\n\u003c/div\u003e","Time":"2012-06-25T11:58:08Z","Tags":["OS X","bash","xterm"]}
